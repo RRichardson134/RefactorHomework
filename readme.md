@@ -108,5 +108,3 @@ Client requested website optimization for accessibility.
 /* Added alt tags for imgs*/
 
 <img src="./Assets/images/social-media-marketing.jpg" alt="social-media-marketing" class="float-left" />
-
-
