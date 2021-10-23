@@ -86,6 +86,8 @@ p {
     background-color: #2589bd;
 }
 
+/* benefits-sidebar contains all sidebar selectors */
+
 .benefits-sidebar {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +103,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* benefits-content contains center section */
 
 .benefits-content {
     margin-bottom: 20px;
@@ -119,6 +123,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
 
 .footer {
     padding: 30px;
